@@ -37,3 +37,9 @@ Ce projet met en pratique plusieurs notions fondamentales abordées dans le cour
   Centre : Identification de la ville ayant l'excentricité minimale (la ville la mieux située pour desservir l'ensemble du territoire).
 
   Points d'articulation : Identification des nœuds critiques. Si l'une de ces villes est retirée, le réseau se divise en plusieurs parties isolées (perte de la connexité).
+
+
+Aperçu du résultat :
+<img width="1198" height="1048" alt="aperçu_projet_graph" src="https://github.com/user-attachments/assets/6f5cce2f-9cbf-4a44-bbbb-4608bf77ad73" />
+
+
