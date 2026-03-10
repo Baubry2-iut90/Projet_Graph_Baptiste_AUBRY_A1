@@ -4,7 +4,7 @@ projet de graph sur les villes de france pour pouvoir connaître les distance (e
 
 Analyse et Optimisation du Réseau Routier Français
 
-Ce projet Python utilise la théorie des graphes pour modéliser, analyser et optimiser un réseau de transport reliant les principales villes de France. L'application permet de calculer des itinéraires optimaux tout en analysant la structure et la robustesse du réseau.
+Mon projet Python utilise la théorie des graphes pour modéliser, analyser et optimiser un réseau de transport reliant les principales villes de France. L'application permet de calculer des itinéraires optimaux tout en analysant la structure et la robustesse du réseau.
 
 
 Fonctionnalités principales
@@ -40,6 +40,7 @@ Ce projet met en pratique plusieurs notions fondamentales abordées dans le cour
 
 
 Aperçu du résultat :
+
 <img width="1198" height="1048" alt="aperçu_projet_graph" src="https://github.com/user-attachments/assets/6f5cce2f-9cbf-4a44-bbbb-4608bf77ad73" />
 <img width="1076" height="330" alt="aperçu_console_projet_graph" src="https://github.com/user-attachments/assets/709e88fc-8e66-4ef9-9ba8-bd20f6b836bb" />
 
